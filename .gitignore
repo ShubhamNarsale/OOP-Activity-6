@@ -1,0 +1,9 @@
+# Local application data and generated binaries
+/data/
+*.exe
+techstore_test
+/tests_units
+/tests_orders
+/tests_persistence
+/test_runtime_orders/
+/test_runtime_persistence/
